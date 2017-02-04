@@ -86,13 +86,13 @@ p {
 }
 
 a:link {
-    color: darkred;
-}
-
-a:visited {
     color: chocolate;
 }
 
-a:hover {
+a:visited {
     color: darkred;
+}
+
+a:hover {
+    color:cadetblue;
 }
